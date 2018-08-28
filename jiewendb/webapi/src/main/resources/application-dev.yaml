@@ -1,0 +1,6 @@
+logging:
+    level:
+         com.leekitman.practice.demo.web.simple.logbacktest.controller : debug
+spring:
+    thymeleaf:
+        cache: false
